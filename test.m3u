@@ -8,3 +8,5 @@ http://stream.animeradio.de/animeradio.mp3
 https://pool.anison.fm/AniSonFM(320)
 #EXTINF:-1 , tvg-logo="https://www.animu.com.br/wp-content/uploads/2021/04/cropped-Icone-A-new-sem-stroke-32x32.png" , Animu.com.br (320kbps-mp3)
 https://cast.animu.com.br:9079/stream
+#EXTINF:-1 , tvg-logo="http://einherzfuermangaundanime.weebly.com/uploads/2/5/7/5/25750611/header_images/1389373420.jpg" , EIN HERZ FÜR MANGA UND ANIME ()
+https://animefm.stream.laut.fm/animefm
