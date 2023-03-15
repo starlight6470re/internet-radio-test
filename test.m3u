@@ -1,8 +1,10 @@
 #EXTM3U
 #PLAYLIST:Online radio: ANIME Music
-#EXTINF:-1 tvg-logo="https://gitgud.io/uploads/-/system/project/avatar/4517/cirno.png" , chiru.no
+#EXTINF:-1 tvg-logo="https://gitgud.io/uploads/-/system/project/avatar/4517/cirno.png" , chiru.no (Hi-Res-flac)
 https://chiru.no/highres.flac
-#EXTINF:-1 tvg-logo="https://www.animeradio.de/img/animeradio-stream-mp3-192.jpg" , AnimeRadio.de
+#EXTINF:-1 tvg-logo="https://www.animeradio.de/img/animeradio-stream-mp3-192.jpg" , AnimeRadio.de (192kbps-mp3)
 http://stream.animeradio.de/animeradio.mp3
-#EXTINF:-1 tvg-logo="http://anison.fm/images/logo-og.png" , ANISON.FM
+#EXTINF:-1 , tvg-logo="http://anison.fm/images/logo-og.png" , Anison.FM (320kbps-mp3)
 https://pool.anison.fm/AniSonFM(320)
+#EXTINF:-1 , tvg-logo="https://www.animu.com.br/wp-content/uploads/2021/04/cropped-Icone-A-new-sem-stroke-32x32.png" , Animu.com.br (320kbps-mp3)
+https://cast.animu.com.br:9079/stream
