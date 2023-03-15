@@ -1,0 +1,4 @@
+#EXTM3U
+#PLAYLIST:Online radio: ANIME Music
+#EXTINF:-1 tvg-logo="https://gitgud.io/uploads/-/system/project/avatar/4517/cirno.png" group-title="ANIME Radio", chiru.no
+https://chiru.no/highres.flac
