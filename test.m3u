@@ -2,3 +2,5 @@
 #PLAYLIST:Online radio: ANIME Music
 #EXTINF:-1 tvg-logo="https://gitgud.io/uploads/-/system/project/avatar/4517/cirno.png" group-title="ANIME Radio", chiru.no
 https://chiru.no/highres.flac
+#EXTINF:-1 tvg-logo="https://www.animeradio.de/img/animeradio-stream-mp3-192.jpg" group-title="ANIME Radio", AnimeRadio.de
+http://stream.animeradio.de/animeradio.mp3
