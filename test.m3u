@@ -12,3 +12,5 @@ https://cast.animu.com.br:9079/stream
 https://animefm.stream.laut.fm/animefm
 #EXTINF:-1 , tvg-logo="https://gensokyoradio.net/images/gr1.png" , Gensokyo Radio Enhanced (256kbps-mp3)
 https://stream.gensokyoradio.net/3
+#EXTINF:-1 , tvg-logo="https://i.postimg.cc/mk72fHN5/photo4927054691355961999.jpg" , JapanNext (96kbps-mp3)
+https://japannex.radioca.st/;
