@@ -14,3 +14,9 @@ https://animefm.stream.laut.fm/animefm
 https://stream.gensokyoradio.net/3
 #EXTINF:-1 , tvg-logo="https://i.postimg.cc/mk72fHN5/photo4927054691355961999.jpg" , JapanNext (96kbps-mp3)
 https://japannex.radioca.st/;
+#EXTINF:-1 , tvg-logo="https://akiba.com.br/painel/v1/imagens/avatar/1609461501.jpg " , Radio Akiba (128kbps-mp3)
+http://stm24.srvstm.com:9526/;
+#EXTINF:-1 , tvg-logo="https://www.radio.net/images/broadcasts/d2/de/115781/3/c300.png" , Anime Para Ti (unknown)
+https://stream-61.zeno.fm/qpn8mkt8c4duv?zs=vw7chT3FQeWys7_3lHYHUw
+#EXTINF:-1 , tvg-logo="https://www.radio.net/images/broadcasts/cc/00/31980/2/c300.png" , Japanim Radio - Osaka
+https://ais-edge102-live365-dal02.cdnstream.com/a51684
