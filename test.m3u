@@ -1,22 +1,24 @@
 #EXTM3U
 #PLAYLIST:Online radio: ANIME Music
-#EXTINF:-1 tvg-logo="https://gitgud.io/uploads/-/system/project/avatar/4517/cirno.png" , chiru.no (Hi-Res-flac)
+#EXTINF:-1 tvg-logo="https://gitgud.io/uploads/-/system/project/avatar/4517/cirno.png" , chiru.no (Hi-Res)
 https://chiru.no/highres.flac
-#EXTINF:-1 tvg-logo="https://www.animeradio.de/img/animeradio-stream-mp3-192.jpg" , AnimeRadio.de (192kbps-mp3)
+#EXTINF:-1 tvg-logo="https://www.animeradio.de/img/animeradio-stream-mp3-192.jpg" , AnimeRadio.de (192kbps)
 http://stream.animeradio.de/animeradio.mp3
 #EXTINF:-1 , tvg-logo="http://anison.fm/images/logo-og.png" , Anison.FM (320kbps-mp3)
 https://pool.anison.fm/AniSonFM(320)
-#EXTINF:-1 , tvg-logo="https://www.animu.com.br/wp-content/uploads/2021/04/cropped-Icone-A-new-sem-stroke-32x32.png" , Animu.com.br (320kbps-mp3)
+#EXTINF:-1 , tvg-logo="https://www.animu.com.br/wp-content/uploads/2021/04/cropped-Icone-A-new-sem-stroke-32x32.png" , Animu.com.br (320kbps)
 https://cast.animu.com.br:9079/stream
 #EXTINF:-1 , tvg-logo="http://einherzfuermangaundanime.weebly.com/uploads/2/5/7/5/25750611/header_images/1389373420.jpg" , EIN HERZ FÜR MANGA UND ANIME (unknown)
 https://animefm.stream.laut.fm/animefm
-#EXTINF:-1 , tvg-logo="https://gensokyoradio.net/images/gr1.png" , Gensokyo Radio Enhanced (256kbps-mp3)
+#EXTINF:-1 , tvg-logo="https://gensokyoradio.net/images/gr1.png" , Gensokyo Radio Enhanced (256kbps)
 https://stream.gensokyoradio.net/3
-#EXTINF:-1 , tvg-logo="https://i.postimg.cc/mk72fHN5/photo4927054691355961999.jpg" , JapanNext (96kbps-mp3)
+#EXTINF:-1 , tvg-logo="https://i.postimg.cc/mk72fHN5/photo4927054691355961999.jpg" , JapanNext (96kbps)
 https://japannex.radioca.st/;
-#EXTINF:-1 , tvg-logo="https://akiba.com.br/painel/v1/imagens/avatar/1609461501.jpg " , Radio Akiba (128kbps-mp3)
+#EXTINF:-1 , tvg-logo="https://akiba.com.br/painel/v1/imagens/avatar/1609461501.jpg " , Radio Akiba (128kbps)
 http://stm24.srvstm.com:9526/;
 #EXTINF:-1 , tvg-logo="https://www.radio.net/images/broadcasts/d2/de/115781/3/c300.png" , Anime Para Ti (unknown)
 https://stream-61.zeno.fm/qpn8mkt8c4duv?zs=vw7chT3FQeWys7_3lHYHUw
-#EXTINF:-1 , tvg-logo="https://www.radio.net/images/broadcasts/cc/00/31980/2/c300.png" , Japanim Radio - Osaka
+#EXTINF:-1 , tvg-logo="https://www.radio.net/images/broadcasts/cc/00/31980/2/c300.png" , Japanim Radio - Osaka (unknown)
 https://ais-edge102-live365-dal02.cdnstream.com/a51684
+#EXTINF:-1 , tvg-logo="https://cdn-radiotime-logos.tunein.com/s221579q.png" , Vocaloid Radio (192kbps)
+http://curiosity.shoutca.st:8019/autodj
